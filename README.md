@@ -14,7 +14,7 @@
 ## [Repositories](https://github.com/CHeuberger?tab=repositories)
 
 * [JSnip](https://github.com/CHeuberger/JSnip) - Take screen shots.
-* [Logikus](https://cheuberger.github.io/Logikus/) - Emulator for [Kosmos-Logikus](https://de.wikipedia.org/wiki/Logikus).
+* [JLogikus](https://cheuberger.github.io/JLogikus/) - Emulator for [Kosmos-Logikus](https://de.wikipedia.org/wiki/Logikus).
 * [Puzzle](https://github.com/CHeuberger/Puzzle) - Jigsaw Puzzle.
 
 
