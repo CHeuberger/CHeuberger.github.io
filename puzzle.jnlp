@@ -5,17 +5,24 @@
     <information>
         <title>Jigsaw Puzzle</title>
         <vendor>Carlos F. Heuberger</vendor>
+        <offline-allowed/>
     </information>
+
+    <security>
+        <all-permissions/>
+    </security>
+
     <resources>
         <!-- Application Resources -->
         <j2se version="1.8+"
               href="http://java.sun.com/products/autodl/j2se"/>
         <jar href="puzzle.jar" main="true" />
- 
     </resources>
+ 
     <application-desc
          name="Jigsaw Puzzle Application"
          main-class="cfh.puzzle.Test">
      </application-desc>
+
      <update check="background"/>
 </jnlp>
